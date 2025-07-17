@@ -1,6 +1,6 @@
 {
   "status": true,
-  "criador": "Erlangga Developer ApiBug",
+  "criador": "AKS-XD Developer ApiBug",
   "resultado": {
     "type": "md",
     "ws": {
